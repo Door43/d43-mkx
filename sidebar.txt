@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mkx:home|Door43 (mkx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mkx|d43-mkx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mkx/archive/master.zip|d43-mkx.zip]]
+
+**Recent Changes**
+{{changes>ns = mkx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mkx|Ethnologue data]]
+
